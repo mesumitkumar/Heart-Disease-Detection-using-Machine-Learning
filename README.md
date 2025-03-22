@@ -1,6 +1,5 @@
-# Heart-Disease-Detection-using-Machine-Learning
+# Predicting Heart Disease Using Machine Learning
 
-Predicting Heart Disease Using Machine Learning
 Preventing heart disease has become increasingly essential. Effective, data-driven prediction systems can significantly enhance research and prevention efforts, ensuring healthier lives. This is where Machine Learning proves valuable. By leveraging Machine Learning techniques, we can achieve highly accurate heart disease predictions.
 
 This project focuses on analyzing a dataset of heart disease patients with thorough data preprocessing. Various Machine Learning models were trained and evaluated using different algorithms, including K-Nearest Neighbors (KNN), Decision Tree, Random Forest, Support Vector Machine (SVM), and Logistic Regression. The implementation is based on a Jupyter Notebook and dataset used in my Kaggle kernel, "Binary Classification with Sklearn and Keras."
